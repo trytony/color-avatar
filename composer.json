@@ -1,6 +1,6 @@
 {
     "name": "zhangbingliang\/color-avatar",
-    "description": "color avatar",
+    "description": "根据姓名首字母自动生成随机颜色头像",
     "license": "MIT",
     "authors": [
         {

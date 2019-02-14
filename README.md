@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require tony/color-avatar -vvv
+$ composer require zhangbingliang/color-avatar -vvv
 ```
 
 ## Usage
