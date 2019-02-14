@@ -1,0 +1,28 @@
+{
+    "name": "tony\/colorAvatar",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tony",
+            "email": "work@iftony.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "phpunit/phpunit": "^7.4",
+        "mockery/mockery": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tony\\ColorAvatar\\": "./src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tony\\ColorAvatar\\ServiceProvider"
+            ]
+        }
+    }
+}
