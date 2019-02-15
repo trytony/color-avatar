@@ -1,6 +1,6 @@
-<h1 align="center"> weather </h1>
+<h1 align="center"> Color Avatar </h1>
 
-<p align="center"> test.</p>
+<p align="center"> 自动生成姓名首字母头像</p>
 
 
 ## Installing
