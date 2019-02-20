@@ -56,7 +56,7 @@ class ColorAvatar
 
         // Add text, a little less white, since we used pure white as transparent color.
         $colorWhite = imagecolorallocate($im, 254, 254, 254);
-        $fontPath = '../src/fonts/Hack-Bold.ttf'; // MIT license.
+        $fontPath = __DIR__ . '/fonts/Hack-Bold.ttf'; // MIT license.
 
         if (strlen($text) == 1) {
             $xOffset = 85;
